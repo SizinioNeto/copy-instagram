@@ -1,10 +1,10 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Olá, tudo bem? 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório foi criado com base no desafio do curso de CSS e HTML da Dio como desafio Flex box onde recriei a interface de login do Instagram! 
 
-### Os requisitos são:
+referencias adicionais utilizadas:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+
